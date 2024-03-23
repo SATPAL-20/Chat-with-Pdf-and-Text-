@@ -8,3 +8,4 @@ pypdf
 pandas
 tabulate
 asyncio
+streamlit
