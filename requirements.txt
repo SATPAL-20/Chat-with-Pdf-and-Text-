@@ -9,3 +9,5 @@ pandas
 tabulate
 asyncio
 streamlit
+langchain_openai
+langchain-openai
