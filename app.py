@@ -43,7 +43,7 @@ def get_docsearch(file: AskFileResponse):
     return docsearch
 
 async def main():
-    st.title("TheAIMart(PATBot)")
+    st.title("PATBot\nBy TheAIMart")
 
     files = st.file_uploader("Upload a PDF or text file", type=["txt", "pdf"], accept_multiple_files=False, key="file")
     if files is not None:
